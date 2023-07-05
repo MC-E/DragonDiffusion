@@ -39,7 +39,7 @@ DragonDiffusion</span> enables various editing modes for the real images, includ
 [1] <a href="https://github.com/XingangPan/DragGAN">Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold</a>
 </p>
 <p>
-[2] <a href="https://yujun-shi.github.io/projects/dragdiffusion.html">DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing</a>
+[2] <a href="https://yujun-shi.github.io/projects/dragdiffusion.html">DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing</a> (The first attempt and presentation for point dragging on diffusion)
 </p>
 <p>
 [3] <a href="https://dave.ml/selfguidance/">Diffusion Self-Guidance for Controllable Image Generation</a>
