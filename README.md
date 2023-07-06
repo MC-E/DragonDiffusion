@@ -11,16 +11,21 @@
 ---
 
 <p align="center">
-  <img src="assets/teaser.png" height=250>
+  <img src="assets/teaser.png" height=300>
 </p>
 
+<div align="center">
 DragonDiffusion</span> enables various editing modes for the real images, including object moving, object resizing, object appearance replacement, and content dragging.
+</div>
 
 ## Updates
 
 - [2023/7/6] Paper is available [here](https://arxiv.org/abs/2307.02421).
 
 ---
+
+## Introduction
+In this paper, we aim to develop a fine-grained image editing scheme based on the strong correspondence of intermediate features in diffusion models. To this end, we design a classifier-guidance-based method to transform the editing signals into gradients via feature correspondence loss to modify the intermediate representation of the diffusion model. The feature correspondence loss is designed with multiple scales to consider both semantic and geometric alignment. Moreover, a cross-branch self-attention is added to maintain the consistency between the original image and the editing result.
 
 ## Main Features
 
