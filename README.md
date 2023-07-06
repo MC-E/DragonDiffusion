@@ -3,7 +3,7 @@
 [Xintao Wang](https://xinntao.github.io/),
 [Jiechong Song](),
 [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ),
-[Jian Zhang](https://scholar.google.com/citations?user=7brFI_4AAAAJ&hl=zh-CN)
+[Jian Zhang](https://jianzhang.tech/)
 
 [![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://mc-e.github.io/project/DragonDiffusion/)
 [![arXiv](https://img.shields.io/badge/ArXiv-2304.08465-brightgreen)](https://arxiv.org/abs/2307.02421)
