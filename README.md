@@ -1,5 +1,5 @@
 # DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models
-[Chong Mou](https://github.com/ljzycmd),
+[Chong Mou](https://scholar.google.com/citations?user=SYQoDk0AAAAJ&hl=zh-CN),
 [Xintao Wang](https://xinntao.github.io/),
 [Jiechong Song](),
 [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ),
