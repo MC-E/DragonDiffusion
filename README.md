@@ -18,19 +18,22 @@ DragonDiffusion</span> enables various editing modes for the real images, includ
 
 ## Updates
 
-- [2023/7/6] Paper is available.
+- [2023/7/6] Paper is available [here](https://arxiv.org/abs/2307.02421).
 
 ---
 
 ## Main Features
-- Object Moving & Resizing:
+
+- Object Moving & Resizing
 <p align="center">
   <img src="assets/res_move.png" height=250>
 </p>
+
 - Object Appearance Replacement
 <p align="center">
   <img src="assets/res_app.png" height=250>
 </p>
+
 - Content Dragging
 <p align="center">
   <img src="assets/res_drag.png" height=250>
