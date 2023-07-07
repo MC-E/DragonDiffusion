@@ -51,5 +51,8 @@ In this paper, we aim to develop a fine-grained image editing scheme based on th
 [2] <a href="https://yujun-shi.github.io/projects/dragdiffusion.html">DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing</a> (The first attempt and presentation for point dragging on diffusion)
 </p>
 <p>
-[3] <a href="https://dave.ml/selfguidance/">Diffusion Self-Guidance for Controllable Image Generation</a>
+[3] <a href="https://arxiv.org/abs/2306.03881">
+Emergent Correspondence from Image Diffusion</a></p>
+<p>
+[4] <a href="https://dave.ml/selfguidance/">Diffusion Self-Guidance for Controllable Image Generation</a>
 </p>
