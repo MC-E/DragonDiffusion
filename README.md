@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/54032224/302051504-dac634f3-85ef-4ff1-
 ---
 
 # Introduction
-**DragonDiffusion** is a turning-free method for fine-grained image editing. The core idea of DragonDiffusion comes from [score-based diffusion](https://arxiv.org/abs/2011.13456). It can perform various editing tasks, including object moving, object resizing, object appearance replacement, content dragging, and object pasting. **DiffEditor** further improves the editing accuracy and flexibility of DragonDiffusion, and introduces image prompt into image editing.
+**DragonDiffusion** is a turning-free method for fine-grained image editing. The core idea of DragonDiffusion comes from [score-based diffusion](https://arxiv.org/abs/2011.13456). It can perform various editing tasks, including object moving, object resizing, object appearance replacement, content dragging, and object pasting. **DiffEditor** further improves the editing accuracy and flexibility of DragonDiffusion.
 
 # 🔥🔥🔥 Main Features  
 ### **Appearance Modulation**  
