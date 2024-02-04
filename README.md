@@ -1,4 +1,4 @@
-# DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models
+# DragonDiffusion + DiffEditor
 [Chong Mou](https://scholar.google.com/citations?user=SYQoDk0AAAAJ&hl=zh-CN),
 [Xintao Wang](https://xinntao.github.io/),
 [Jiechong Song](),
