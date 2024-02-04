@@ -9,11 +9,11 @@
 [![arXiv](https://img.shields.io/badge/ArXiv-2304.08465-brightgreen)](https://arxiv.org/abs/2307.02421)
 
 ---
-
 https://user-images.githubusercontent.com/54032224/302051504-dac634f3-85ef-4ff1-80a2-bd2805e067ea.mp4
 
 ## 🚩 **New Features/Updates**
-- [2024/02/05] Releasing the paper of **DiffEditor**. Releasing the code of **DragonDiffusion** and **DiffEditor**.
+- [2024/02/05] Releasing the paper of **DiffEditor**.
+- [2024/02/04] Releasing the code of **DragonDiffusion** and **DiffEditor**.
 - [2024/01/15] Accepted by ICLR 2024 (**Spotlight**).
 - [2023/07/06] Paper of **DragonDiffusion** is available [here](https://arxiv.org/abs/2307.02421).
 
@@ -88,6 +88,9 @@ python app.py
 Emergent Correspondence from Image Diffusion</a></p>
 <p>
 [4] <a href="https://dave.ml/selfguidance/">Diffusion Self-Guidance for Controllable Image Generation</a>
+</p>
+<p>
+[5] <a href="https://browse.arxiv.org/abs/2308.06721">IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models</a>
 </p>
 
 # BibTeX
