@@ -1,4 +1,4 @@
-# DragonDiffusion + DiffEditor
+# [DragonDiffusion](https://arxiv.org/abs/2307.02421) + [DiffEditor](https://arxiv.org/abs/2402.02583)
 [Chong Mou](https://scholar.google.com/citations?user=SYQoDk0AAAAJ&hl=zh-CN),
 [Xintao Wang](https://xinntao.github.io/),
 [Jiechong Song](),
@@ -7,6 +7,7 @@
 
 [![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://mc-e.github.io/project/DragonDiffusion/)
 [![arXiv](https://img.shields.io/badge/ArXiv-2304.08465-brightgreen)](https://arxiv.org/abs/2307.02421)
+[![arXiv](https://img.shields.io/badge/ArXiv-2402.02583-brightgreen)](https://arxiv.org/abs/2402.02583)
 
 ---
 https://user-images.githubusercontent.com/54032224/302051504-dac634f3-85ef-4ff1-80a2-bd2805e067ea.mp4
@@ -104,6 +105,6 @@ Emergent Correspondence from Image Diffusion</a></p>
     @article{mou2023diffeditor,
       title={DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing},
       author={Mou, Chong and Wang, Xintao and Song, Jiechong and Shan, Ying and Zhang, Jian},
-      journal={arXiv preprint arXiv:2307.02421},
+      journal={arXiv preprint arXiv:2402.02583},
       year={2023}
     }
