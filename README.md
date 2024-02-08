@@ -94,6 +94,9 @@ Emergent Correspondence from Image Diffusion</a></p>
 [5] <a href="https://browse.arxiv.org/abs/2308.06721">IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models</a>
 </p>
 
+# 🤗 Acknowledgements
+We appreciate the foundational work done by [score-based diffusion](https://arxiv.org/abs/2011.13456) and [DragGAN](https://arxiv.org/abs/2305.10973).
+
 # BibTeX
 
     @article{mou2023dragondiffusion,
