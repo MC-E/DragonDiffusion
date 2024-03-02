@@ -13,9 +13,10 @@
 https://user-images.githubusercontent.com/54032224/302051504-dac634f3-85ef-4ff1-80a2-bd2805e067ea.mp4
 
 ## 🚩 **New Features/Updates**
+- [2024/02/26] **DiffEditor** is accepted by CVPR 2024.
 - [2024/02/05] Releasing the paper of **DiffEditor**.
 - [2024/02/04] Releasing the code of **DragonDiffusion** and **DiffEditor**.
-- [2024/01/15] Accepted by ICLR 2024 (**Spotlight**).
+- [2024/01/15] **DragonDiffusion** is accepted by ICLR 2024 (**Spotlight**).
 - [2023/07/06] Paper of **DragonDiffusion** is available [here](https://arxiv.org/abs/2307.02421).
 
 ---
